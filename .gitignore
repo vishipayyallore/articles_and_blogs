@@ -348,3 +348,5 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+17may2020_aspnetcore_webapi_efcore_sqlazure_rediscache/College.Microservice/Source/appsettings.Development.json
+17may2020_aspnetcore_webapi_efcore_sqlazure_rediscache/ReadMe.md
